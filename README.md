@@ -33,10 +33,13 @@ I have been focusing on improving my C# skills using the Unity engine to create 
 
 [![React Badge](https://img.shields.io/badge/React-white?style=flat&logo=react)](https://reactjs.org/)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)](https://expressjs.com/)
+[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)](https://flask.palletsprojects.com/)
 [![Bootstrap 5 Badge](https://img.shields.io/badge/Bootstrap-grey?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)](https://jquery.com/)
 [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)](https://redux.js.org/)
 [![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)](https://jestjs.io/)
+[![Jinja Badge](https://img.shields.io/badge/Jinja-000000?style=flat&logo=jinja)](https://jinja.palletsprojects.com/)
+[![Handlebars Badge](https://img.shields.io/badge/Handlebars-F0772B?style=flat&logo=handlebars.js)](https://handlebarsjs.com/)
 
 
 
@@ -48,6 +51,8 @@ I have been focusing on improving my C# skills using the Unity engine to create 
 [![Mongoose Badge](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose)](https://mongoosejs.com/)
 [![Sequelize Badge](https://img.shields.io/badge/Sequelize-purple?style=flat&logo=sequelize)](https://sequelize.org/)
 [![Apollo Server Badge](https://img.shields.io/badge/Apollo%20Server-311C87?style=flat&logo=apollographql)](https://www.apollographql.com/docs/apollo-server/)
+[![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-FFA726?style=flat&logo=SQLAlchemy)](https://www.sqlalchemy.org/)
+
 
 
 ### Tools
@@ -61,3 +66,4 @@ I have been focusing on improving my C# skills using the Unity engine to create 
 [![Three.js Badge](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js)](https://threejs.org/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab)](https://gitlab.com/)
+[![pip Badge](https://img.shields.io/badge/pip-green?style=flat&logo=pypi)](https://pip.pypa.io/en/stable/)
