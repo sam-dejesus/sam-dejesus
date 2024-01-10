@@ -10,11 +10,11 @@ Hello! I am a Full-Stack Developer with a passion for software development and b
 
 ## I’m currently working on
 
-I am embarking on an exciting journey this upcoming winter (2023) as I begin my studies at Western Governors University, pursuing a Bachelor of Science in Software Engineering. But in the meantime, I'm also taking the opportunity to enhance my skills by pursuing two Google certificates: one in IT Support and the other in UX/UI Design.
+I am currently pursuing a B.S. in Software Engineering from the esteemed College of Information Technology at Western Governors University. This program is providing me with the perfect platform to hone my skills and knowledge in software development and equipping me with the ability to take on complex challenges with confidence. I am excited to be on this journey and look forward to achieving my career goals.
 
 ## I’m currently learning
 
-I have been focusing on improving my C# skills using the Unity engine to create my first platform game also I am learning more about threeJS and blender to be able to create animations from the ground up to strengthen my UX/UI skills.
+I am proud to say that I have been taking proactive steps to enhance my skill set and knowledge base. I have been immersing myself in the world of R Programming, Java, and Springboot, all while delving into the exciting field of Cyber Security with the guidance of the Red Team Field Manual. I am confident that these skills will allow me to excel in my career and take on new challenges with ease.
 
 ## Technologies
 
